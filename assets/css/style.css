@@ -22,7 +22,7 @@ body {
 .container {
     background-color: #fff;
     box-shadow: -1px 18px 38px -18px rgba(0, 0, 0, 0.75);
-    width: 400px;
+    width: 600px;
     padding: 40px;
     display: flex;
     flex-direction: column;
